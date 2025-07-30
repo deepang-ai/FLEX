@@ -6,7 +6,7 @@ More details of this project will be released soon.
 
 ## Network Architecture
 
-![Overview](./figures/overview.png)
+![Overview](./figures/overview1.png)
 
 Comparison of scoliosis assessments. (a) RGB-Only: a non-invasive, cost-effective solution, but with limited accuracy due to reliance on surface imaging. (b) X-Ray-only: provides high accuracy for skeletal landmark detection but incurs radiation exposure and higher costs. (c) FLEX: achieves clinical-grade accuracy while remaining radiation-free and cost-efficient, bridging the gap between safety and precision.
 
