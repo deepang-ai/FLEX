@@ -3,6 +3,7 @@
 
 More details of this project will be released soon.
 
+weights: [![huggingface weights](https://img.shields.io/badge/%F0%9F%A4%97%20Weights-deepang/FLEX-yellow)](https://huggingface.co/deepang/FLEX)&nbsp;
 
 ## Network Architecture
 
